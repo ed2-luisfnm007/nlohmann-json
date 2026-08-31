@@ -1,0 +1,26 @@
+{
+    "empresa": "One Solutions",
+    "empleados": [
+        {
+            "id": 101,
+            "nombre": "Luis",
+            "edad": 28,
+            "salario": 18500.50,
+            "activo": true
+        },
+        {
+            "id": 102,
+            "nombre": "Ana",
+            "edad": 31,
+            "salario": 22000,
+            "activo": true
+        },
+        {
+            "id": 103,
+            "nombre": "Carlos",
+            "edad": 24,
+            "salario": 17350.75,
+            "activo": false
+        }
+    ]
+}
