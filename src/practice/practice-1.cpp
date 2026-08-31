@@ -11,7 +11,7 @@ namespace fs = std::filesystem;
 
 int main()
 {
-    std::string filePath("src/practice/practice-1.json");
+    std::string filePath("src/practice/json/practice-1.json");
     fs::path file(filePath);
 
     try

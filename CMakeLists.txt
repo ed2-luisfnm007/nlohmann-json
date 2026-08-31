@@ -14,3 +14,7 @@ add_executable(example-1
 add_executable(practice-1
     src/practice/practice-1.cpp
 )
+
+add_executable(practice-2
+    src/practice/practice-2.cpp
+)

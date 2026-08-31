@@ -1,0 +1,15 @@
+{
+    "application": "DataPipelineServer",
+    "version": 1.2,
+    "active": true,
+    "settings": {
+        "max_connections": 100,
+        "timeout_ms": 5000,
+        "environment": "production"
+    },
+    "allowed_hosts": [
+        "127.0.0.1",
+        "192.168.1.10",
+        "10.0.0.5"
+    ]
+}
